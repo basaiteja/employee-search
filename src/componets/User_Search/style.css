@@ -1,0 +1,33 @@
+/* UserSearch.css */
+
+/* Container styles */
+.user-search-container {
+    margin: 20px;
+  }
+  
+  /* Input styles */
+  .user-search-input {
+    padding: 8px;
+    width: 300px;
+    margin-bottom: 10px;
+  }
+  
+  /* List styles */
+  .user-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* List item styles */
+  .user-list-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  /* Profile picture styles */
+  .user-profile-picture {
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
